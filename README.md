@@ -14,8 +14,8 @@
   <h3 align="center">A Collaborative LiveDocs</h3>
 
    <div align="center">
-     Try this ambitious project by yourself on: [a link](live-docs-pi-teal.vercel.app)
-       
+     Check the Project and try it by yourself or with a friend on <a href="https://live-docs-pi-teal.vercel.app/" target="_blank"><b>LiveDocs</b></a> Click Me !
+    </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
