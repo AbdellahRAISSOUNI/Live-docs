@@ -14,7 +14,8 @@
   <h3 align="center">A Collaborative LiveDocs</h3>
 
    <div align="center">
-     Try this ambitious project by yourself on <a href="[https://live-docs-pi-teal.vercel.app]" target="_blank"><b> CLICK ME !! </b>
+     Try this ambitious project by yourself on <a href="[https://live-docs-pi-teal.vercel.app]" target="_blank"> Click me !!</a>
+       
     </div>
 </div>
 
