@@ -14,7 +14,7 @@
   <h3 align="center">A Collaborative LiveDocs</h3>
 
    <div align="center">
-     Try this ambitious project by yourself on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>by Abdelah Raissouni </b>
+     Try this ambitious project by yourself on <a href="[https://www.youtube.com/@javascriptmastery/videos](https://live-docs-pi-teal.vercel.app" target="_blank"><b> CLICK ME !! </b>
     </div>
 </div>
 
